@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Buyyala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **chandanbuyyala21@gmail.com**
 
